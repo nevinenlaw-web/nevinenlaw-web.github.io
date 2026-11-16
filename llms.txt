@@ -15,8 +15,8 @@
 Criminal defence, disputes and lawsuits with an opposing party, contested family matters, labour/commercial/corporate disputes and arbitration, urgent court deadlines, foreign-law and visa matters.
 
 ## Pages
-- [Website (Arabic, with English version)](https://nevinenlaw-web.github.io/)
-- [English version](https://nevinenlaw-web.github.io/?lang=en)
+- [Website (Arabic, with English version)](https://nevinelaw.com/)
+- [English version](https://nevinelaw.com/?lang=en)
 - Practical guides on the site: powers of attorney at an Egyptian consulate, powers signed before a foreign notary (Egypt is not party to the Apostille Convention), heirs certificates, checks before buying property, civil certificates from abroad, examples of stating the purpose of a power.
 
 ## Notes
