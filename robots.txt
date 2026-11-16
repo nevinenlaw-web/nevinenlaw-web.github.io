@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nevinenlaw-web.github.io/sitemap.xml
+Sitemap: https://nevinelaw.com/sitemap.xml
